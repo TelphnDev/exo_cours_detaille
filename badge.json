@@ -1,3 +1,17 @@
 {
-  
+  "exo_fini": {
+    "label": "exo fini",
+    "message": "100%",
+    "color": "green"
+  },
+  "exo_publier": {
+    "label": "exo publier",
+    "message": "2",
+    "color": "green"
+  },
+  "totale_exo": {
+    "label": "totale exo fait en cours",
+    "message": "2",
+    "color": "orange"
+  }
 }
