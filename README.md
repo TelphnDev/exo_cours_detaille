@@ -8,11 +8,11 @@ Dépôt contenant tous les travaux pratiques de programmation, terminés et simp
 
 ## 📝 Sommaire
 
-À propos
-Branches
-Remarques importantes
-Contribution
-Badges d’avancement
+- À propos
+- Branches
+- Remarques importantes
+- Contribution
+- Badges d’avancement
 
 <br>
 
