@@ -45,7 +45,7 @@ Types de tags :
 
 Vous souhaitez contribuer ?
 
-🔄 Forkez le dépôt
+🔄 Forkez le dépôt et faite un pull request
 📂 Ajoutez vos fichiers ou modifications
 ✉️ Envoyez un message pour proposer vos contributions
 
