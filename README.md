@@ -1,5 +1,18 @@
+
 ## Repos pour tout les tp de programmation
-le but consiste a avoir libre d'accès le code source de l'exercice mais terminer et simplifier pour pouvoir faire des entrainements ou mieux comprendre certains point
+le but consiste a avoir libre d'accès le code source de l'exercice mais terminer et simplifier pour pouvoir faire des entrainements, reviser ou mieux comprendre certains point pour terminer l'exercice
+
+---
+Il y a les release qui a les exercices publier ⚠️ne prenez pas le code source mais les fichier en .rar
+
+Il y a deux tag:
+
+ -  release : quand l'exercice est fini en cours et donc c'est du passé et sa peut aider a réviser
+ - exercice_pas_fini_en_cours : quand l'exercice n'est pas fini en cours et aide a comprendre et pouvoir avancer un peu en comprenant 
+
+bonne revision a tous 😉
+
+---
 
 
 
