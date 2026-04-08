@@ -74,5 +74,5 @@ Ajouter des commentaire le plus possible et/ou Screenshot dans chaque dossier d'
 
 <br>
 
-## Contribution :
+## 🧍 Contribution :
 merci a ChatGPT pour la création de ce beaux README
