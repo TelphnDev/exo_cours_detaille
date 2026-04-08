@@ -70,3 +70,9 @@ Pour rendre le dépôt encore plus attractif :
 
 Ajouter des icônes pour chaque exercice selon son état (terminé ✅ / en cours 🏭 / en retard car l'exercice est déjà fini en cours ⏲️)
 Ajouter des commentaire le plus possible et/ou Screenshot dans chaque dossier d'exercice lui correspondant
+
+
+<br>
+
+## Contribution :
+merci a ChatGPT pour la création de ce beaux README
