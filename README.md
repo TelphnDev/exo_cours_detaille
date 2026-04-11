@@ -23,6 +23,7 @@ Dans discussions il y a tout les messages et nouveauté parfois faut aussi regar
 
 👉 Utilisez uniquement `main` pour vos révisions.
 Quand chaque exercice sera fini il sera ajouter sans les issues certians peuvent aussi être clos
+filtrer par autheurs pour eviter que vous voyez les autre issues pas comfirmer ou pas a la demande les autheurs a regarder seront afficher dans les contributer et le wiki
 
 <br>
 
@@ -30,9 +31,7 @@ Quand chaque exercice sera fini il sera ajouter sans les issues certians peuvent
 
 - Utilisez les fichiers `.rar` plutôt que le code source. Pour avoir uniquement l'exercice souhaitez
 
-Types de label :
-- `release` : exercice terminé en cours
-- `exercice_pas_fini_en_cours` : exercice pas encore fini en cours
+Chaque label est détaillé
 
 en cas d'aide regarder dans le wiki, avec la comunaité dans disussion ou sur les serveur du groupe de classe (discord, snap)
 
