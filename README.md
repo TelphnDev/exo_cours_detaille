@@ -12,6 +12,8 @@ Ce dépôt permet de :
 - Réviser
 - Mieux comprendre les concepts
 
+Dans discussions il y a tout les messages et nouveauté parfois faut aussi regarder dans les message clos
+
 <br>
 
 ## 🌿 Branches
@@ -20,17 +22,19 @@ Ce dépôt permet de :
 - autres branches : tests ou travaux en cours
 
 👉 Utilisez uniquement `main` pour vos révisions.
+Quand chaque exercice sera fini il sera ajouter sans les issues certians peuvent aussi être clos
 
 <br>
 
 ## ⚠️ Remarques
 
-- Les *releases* contiennent le code source qui est le repos entier 
-- Utilisez les fichiers `.rar` plutôt que le code source  
+- Utilisez les fichiers `.rar` plutôt que le code source. Pour avoir uniquement l'exercice souhaitez
 
-Types de tags :
+Types de label :
 - `release` : exercice terminé en cours
 - `exercice_pas_fini_en_cours` : exercice pas encore fini en cours
+
+en cas d'aide regarder dans le wiki, avec la comunaité dans disussion ou sur les serveur du groupe de classe (discord, snap)
 
 <br>
 
