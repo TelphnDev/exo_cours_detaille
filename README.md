@@ -46,11 +46,6 @@ Pour contribuer :
 
 <br>
 
-## 🔖 Avancement
-[![Exercices publiés](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TelphnDev/exo_cours_detaille/main/badge/exo_publier.json)](https://github.com/TelphnDev/exo_cours_detaille/releases) [![Exercices terminés en cours](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TelphnDev/exo_cours_detaille/main/badge/exo_fini.json)](https://github.com/TelphnDev/exo_cours_detaille/releases) [![Total des exercices](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TelphnDev/exo_cours_detaille/main/badge/totale_exo.json)](https://github.com/TelphnDev/exo_cours_detaille/releases)
-
-<br>
-
 ## ℹ️ Conseils
 
 - Ajouter des commentaires dans le code
